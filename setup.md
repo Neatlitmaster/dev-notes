@@ -1,0 +1,3 @@
+# Setup
+
+Local environment notes.
